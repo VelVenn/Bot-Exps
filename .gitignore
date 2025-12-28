@@ -39,3 +39,10 @@
 
 # debug information files
 *.dwo
+
+*.venv
+*build/
+__pycache__/
+
+*.vscode/
+*.idea/
